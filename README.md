@@ -4,4 +4,5 @@ This dataset has 3000 images of chest X-Ray scan which are categorized in 3 clas
 1) Normal
 2) Viral Pneumonia
 3) Covid-19
+
 Goal is to predict chest X-ray scans that belonged to one of these three classes with a reasonably high accuracy.
