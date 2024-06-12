@@ -30,8 +30,8 @@ The dataset used for this project is the [Kaggle Chest-X-Ray-Radiography](https:
 To run this project, you will need the following dependencies:
 
 - Python 3.7 or higher
-- TensorFlow 2.x
-- Keras
+- torch
+- torchvision
 - NumPy
 - Matplotlib
 - scikit-learn
