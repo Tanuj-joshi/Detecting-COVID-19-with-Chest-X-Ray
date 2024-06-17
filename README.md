@@ -42,7 +42,8 @@ To run this project, you will need the following dependencies:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Tanuj-joshi/Detecting-COVID-19-with-Chest-X-Ray.git 
+   git clone https://github.com/Tanuj-joshi/Detecting-COVID-19-with-Chest-X-Ray.git
+   cd Detecting-COVID-19-with-Chest-X-Ray
    ```
 
 2. Create a virtual environment and activate it::
